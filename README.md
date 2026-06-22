@@ -1,6 +1,6 @@
 # Eiki: Aprendizaje de kanji
 
-Eiki es una app simple hecha en MS Access que sirve para memorizar rápidamente kanji y términos en japonés, como alternativa a las flashcards físicas. Empezó como un proyecto personal para hacer que mis estudios de japonés sean más llevaderos y entretenidos.
+Eiki es una app simple hecha en MS Access que sirve para memorizar rápidamente kanji y términos en japonés, como alternativa a las flashcards físicas. Empezó como un proyecto personal para hacer que mis estudios de japonés sean más llevaderos y poder agilizar la tarea de memorizar centenas de kanji.
 Hasta ahora sólo incluye los kanjis que estudié, pero se pueden agregar más manualmente!
 
 Features:
