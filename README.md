@@ -14,5 +14,5 @@ Features:
 Por hacer:
   - Customización de nivel por JLPT
   - Base de datos completa de Jōyō kanji
-  - Funcionalidad para palabras además de kanji
+  - Base de datos y flashcards para palabras en japonés
   - Ajustes varios de GUI
