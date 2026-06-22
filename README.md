@@ -16,3 +16,7 @@ Por hacer:
   - Base de datos completa de Jōyō kanji
   - Base de datos y flashcards para palabras en japonés
   - Ajustes varios de GUI
+
+![Flashcards de pronunciación](screenshots/scr1.png)
+![Flashcards de trazado](screenshots/scr2.png)
+![Base de datos](screenshots/scr3.png)
